@@ -14,8 +14,8 @@ In this project, the task was to create meeting calendar app, using React and Re
 
 &nbsp;
 
-## Projects opportunities:
-<img src='./src/images/calendarMobile.png' width='80%' height='80%'> 
+## :bulb: Projects opportunities:
+<img src='./src/images/calendarMobile.png' width='90%' height='90%'> 
 
 
 -   **add meeting** with:
