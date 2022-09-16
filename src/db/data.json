@@ -1,0 +1,44 @@
+{
+  "meetings": [
+    {
+      "id": 1,
+      "firstName": "Jan",
+      "lastName": "Kowalski",
+      "email": "jan@kowalski.not",
+      "date": "2022-01-01",
+      "time": "10:00"
+    },
+    {
+      "firstName": "Anna",
+      "lastName": "Góra",
+      "email": "kitek@gmail.com",
+      "date": "2022-03-02",
+      "time": "12:40",
+      "id": 2
+    },
+    {
+      "firstName": "Adam",
+      "lastName": "Małysz",
+      "email": "adam@wp.pl",
+      "date": "2022-04-27",
+      "time": "11:00",
+      "id": 3
+    },
+    {
+      "firstName": "Agnieszka",
+      "lastName": "Nowak",
+      "email": "nowak@gmail.com",
+      "date": "2022-05-04",
+      "time": "14:40",
+      "id": 4
+    },
+    {
+      "firstName": "Paweł",
+      "lastName": "Kitek",
+      "email": "kitek@gmail.com",
+      "date": "2022-07-14",
+      "time": "13:20",
+      "id": 5
+    }
+  ]
+}
